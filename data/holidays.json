@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "date": "01/01/2019",
+      "title": "Año nuevo"
+    },
+    {
+      "date": "07/01/2019",
+      "title": "Epifanía del Señor(se traslada al lunes)"
+    },
+    {
+      "date": "18/04/2019",
+      "title": "Jueves Santo"
+    },
+    {
+      "date": "19/04/2019",
+      "title": "Viernes Santo"
+    },
+    {
+      "date": "01/05/2019",
+      "title": "Fiesta del Trabajo"
+    },
+    {
+      "date": "02/05/2019",
+      "title": "Día de la Comunidad de Madrid"
+    },
+    {
+      "date": "15/05/2019",
+      "title": "San Isidro"
+    },
+    {
+      "date": "15/08/2019",
+      "title": "Asunción de la Virgen"
+    },
+
+    {
+      "date": "12/10/2019",
+      "title": "Fiesta Nacional Española"
+    },
+    {
+      "date": "01/11/2019",
+      "title": "Día de Todos los Santos"
+    },
+    {
+      "date": "09/11/2019",
+      "title": "Nuestra Señora de la Almudena"
+    },
+    {
+      "date": "06/12/2019",
+      "title": "Día de la Constitución Española"
+    },
+    {
+      "date": "09/12/2019",
+      "title": "Inmaculada Concepción(se traslada al lunes)"
+    },
+    {
+      "date": "25/12/2019",
+      "title": "Natividad del Señor"
+    }
+  ]
+}
